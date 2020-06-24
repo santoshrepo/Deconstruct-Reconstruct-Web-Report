@@ -1,0 +1,1136 @@
+﻿Period,Statistic,Key,Value
+2013-06,Operating Systems,Android,4437
+2013-06,Operating Systems,Bada,4
+2013-06,Operating Systems,BlackBerry,56
+2013-06,Operating Systems,Chrome OS,1
+2013-06,Operating Systems,Firefox OS,6
+2013-06,Operating Systems,iOS,13215
+2013-06,Operating Systems,Linux,1203
+2013-06,Operating Systems,Macintosh,6639
+2013-06,Operating Systems,Nokia,15
+2013-06,Operating Systems,(not set),48
+2013-06,Operating Systems,Samsung,2
+2013-06,Operating Systems,Series40,8
+2013-06,Operating Systems,Sony,10
+2013-06,Operating Systems,SunOS,5
+2013-06,Operating Systems,SymbianOS,47
+2013-06,Operating Systems,Windows,33433
+2013-06,Operating Systems,Windows Phone,107
+2013-07,Operating Systems,Android,4289
+2013-07,Operating Systems,Bada,1
+2013-07,Operating Systems,BlackBerry,76
+2013-07,Operating Systems,Chrome OS,140
+2013-07,Operating Systems,Firefox OS,7
+2013-07,Operating Systems,iOS,12604
+2013-07,Operating Systems,Linux,1027
+2013-07,Operating Systems,Macintosh,7100
+2013-07,Operating Systems,Nintendo Wii,1
+2013-07,Operating Systems,Nokia,15
+2013-07,Operating Systems,(not set),61
+2013-07,Operating Systems,OpenBSD,3
+2013-07,Operating Systems,Samsung,2
+2013-07,Operating Systems,Series40,9
+2013-07,Operating Systems,Sony,3
+2013-07,Operating Systems,SymbianOS,70
+2013-07,Operating Systems,Windows,48134
+2013-07,Operating Systems,Windows Phone,191
+2013-08,Operating Systems,Android,5366
+2013-08,Operating Systems,Bada,1
+2013-08,Operating Systems,BlackBerry,82
+2013-08,Operating Systems,Chrome OS,33
+2013-08,Operating Systems,Firefox OS,9
+2013-08,Operating Systems,iOS,15162
+2013-08,Operating Systems,Linux,1558
+2013-08,Operating Systems,Macintosh,10424
+2013-08,Operating Systems,Nokia,17
+2013-08,Operating Systems,(not set),70
+2013-08,Operating Systems,Samsung,8
+2013-08,Operating Systems,Series40,19
+2013-08,Operating Systems,SymbianOS,54
+2013-08,Operating Systems,Windows,65854
+2013-08,Operating Systems,Windows Phone,208
+2013-09,Operating Systems,Android,6401
+2013-09,Operating Systems,Bada,1
+2013-09,Operating Systems,BlackBerry,88
+2013-09,Operating Systems,Chrome OS,60
+2013-09,Operating Systems,Firefox OS,1
+2013-09,Operating Systems,FreeBSD,1
+2013-09,Operating Systems,iOS,16948
+2013-09,Operating Systems,Linux,1643
+2013-09,Operating Systems,Macintosh,11154
+2013-09,Operating Systems,Nokia,27
+2013-09,Operating Systems,(not set),69
+2013-09,Operating Systems,OpenBSD,4
+2013-09,Operating Systems,Playstation 3,1
+2013-09,Operating Systems,Samsung,18
+2013-09,Operating Systems,Series40,19
+2013-09,Operating Systems,SymbianOS,26
+2013-09,Operating Systems,UNIX,2
+2013-09,Operating Systems,Windows,60691
+2013-09,Operating Systems,Windows Phone,174
+2013-10,Operating Systems,Android,7994
+2013-10,Operating Systems,Bada,3
+2013-10,Operating Systems,BlackBerry,87
+2013-10,Operating Systems,Chrome OS,32
+2013-10,Operating Systems,iOS,20834
+2013-10,Operating Systems,Linux,1568
+2013-10,Operating Systems,Macintosh,11717
+2013-10,Operating Systems,Nokia,19
+2013-10,Operating Systems,(not set),77
+2013-10,Operating Systems,OpenBSD,1
+2013-10,Operating Systems,Playstation 3,2
+2013-10,Operating Systems,Samsung,2
+2013-10,Operating Systems,Series40,19
+2013-10,Operating Systems,Sony,1
+2013-10,Operating Systems,SymbianOS,44
+2013-10,Operating Systems,Windows,63548
+2013-10,Operating Systems,Windows Phone,270
+2013-10,Operating Systems,Xbox,2
+2013-11,Operating Systems,Android,8493
+2013-11,Operating Systems,Bada,3
+2013-11,Operating Systems,BlackBerry,154
+2013-11,Operating Systems,Chrome OS,25
+2013-11,Operating Systems,Firefox OS,2
+2013-11,Operating Systems,iOS,20421
+2013-11,Operating Systems,Linux,1533
+2013-11,Operating Systems,Macintosh,10120
+2013-11,Operating Systems,Nokia,15
+2013-11,Operating Systems,(not set),140
+2013-11,Operating Systems,OpenBSD,7
+2013-11,Operating Systems,Playstation 3,1
+2013-11,Operating Systems,Series40,15
+2013-11,Operating Systems,Sony,3
+2013-11,Operating Systems,SunOS,13
+2013-11,Operating Systems,SymbianOS,36
+2013-11,Operating Systems,Windows,57494
+2013-11,Operating Systems,Windows Phone,262
+2013-12,Operating Systems,Android,8562
+2013-12,Operating Systems,Bada,5
+2013-12,Operating Systems,BlackBerry,96
+2013-12,Operating Systems,Chrome OS,28
+2013-12,Operating Systems,iOS,21462
+2013-12,Operating Systems,Linux,1243
+2013-12,Operating Systems,Macintosh,9273
+2013-12,Operating Systems,Nokia,20
+2013-12,Operating Systems,(not set),77
+2013-12,Operating Systems,OpenBSD,9
+2013-12,Operating Systems,Playstation Vita,3
+2013-12,Operating Systems,Samsung,7
+2013-12,Operating Systems,Series40,33
+2013-12,Operating Systems,Sony,1
+2013-12,Operating Systems,SunOS,9
+2013-12,Operating Systems,SymbianOS,40
+2013-12,Operating Systems,Windows,51674
+2013-12,Operating Systems,Windows Phone,402
+2014-01,Operating Systems,Android,12407
+2014-01,Operating Systems,Bada,1
+2014-01,Operating Systems,BlackBerry,116
+2014-01,Operating Systems,Chrome OS,34
+2014-01,Operating Systems,iOS,30173
+2014-01,Operating Systems,Linux,1912
+2014-01,Operating Systems,Macintosh,12031
+2014-01,Operating Systems,Nokia,32
+2014-01,Operating Systems,(not set),85
+2014-01,Operating Systems,OpenBSD,1
+2014-01,Operating Systems,Playstation 3,1
+2014-01,Operating Systems,Samsung,4
+2014-01,Operating Systems,Series40,18
+2014-01,Operating Systems,SymbianOS,41
+2014-01,Operating Systems,Windows,71824
+2014-01,Operating Systems,Windows Phone,388
+2014-02,Operating Systems,Android,11569
+2014-02,Operating Systems,BlackBerry,77
+2014-02,Operating Systems,Chrome OS,77
+2014-02,Operating Systems,iOS,28702
+2014-02,Operating Systems,Linux,2196
+2014-02,Operating Systems,Macintosh,13509
+2014-02,Operating Systems,Nokia,39
+2014-02,Operating Systems,(not set),83
+2014-02,Operating Systems,Playstation 3,1
+2014-02,Operating Systems,Playstation Vita,2
+2014-02,Operating Systems,Samsung,19
+2014-02,Operating Systems,Series40,28
+2014-02,Operating Systems,Sony,3
+2014-02,Operating Systems,SymbianOS,48
+2014-02,Operating Systems,Windows,75399
+2014-02,Operating Systems,Windows Phone,469
+2014-03,Operating Systems,Android,10385
+2014-03,Operating Systems,BlackBerry,107
+2014-03,Operating Systems,Chrome OS,42
+2014-03,Operating Systems,iOS,25999
+2014-03,Operating Systems,Linux,1907
+2014-03,Operating Systems,Macintosh,14824
+2014-03,Operating Systems,Nokia,35
+2014-03,Operating Systems,(not set),89
+2014-03,Operating Systems,Samsung,7
+2014-03,Operating Systems,Series40,31
+2014-03,Operating Systems,SunOS,20
+2014-03,Operating Systems,SymbianOS,22
+2014-03,Operating Systems,Windows,78866
+2014-03,Operating Systems,Windows Phone,442
+2014-04,Operating Systems,Android,8488
+2014-04,Operating Systems,Bada,3
+2014-04,Operating Systems,BlackBerry,77
+2014-04,Operating Systems,Chrome OS,27
+2014-04,Operating Systems,iOS,18945
+2014-04,Operating Systems,Linux,2003
+2014-04,Operating Systems,Macintosh,15010
+2014-04,Operating Systems,Nokia,6
+2014-04,Operating Systems,(not set),94
+2014-04,Operating Systems,Playstation Vita,3
+2014-04,Operating Systems,Samsung,17
+2014-04,Operating Systems,Series40,8
+2014-04,Operating Systems,Sony,5
+2014-04,Operating Systems,SymbianOS,16
+2014-04,Operating Systems,Windows,69170
+2014-04,Operating Systems,Windows Phone,400
+2014-05,Operating Systems,Android,7880
+2014-05,Operating Systems,Bada,3
+2014-05,Operating Systems,BlackBerry,93
+2014-05,Operating Systems,Chrome OS,66
+2014-05,Operating Systems,iOS,18935
+2014-05,Operating Systems,Linux,2396
+2014-05,Operating Systems,Macintosh,15394
+2014-05,Operating Systems,Nokia,15
+2014-05,Operating Systems,(not set),73
+2014-05,Operating Systems,OpenBSD,31
+2014-05,Operating Systems,Playstation 3,1
+2014-05,Operating Systems,Samsung,3
+2014-05,Operating Systems,Series40,14
+2014-05,Operating Systems,Sony,1
+2014-05,Operating Systems,SymbianOS,19
+2014-05,Operating Systems,Windows,91814
+2014-05,Operating Systems,Windows Phone,346
+2014-06,Operating Systems,Android,5785
+2014-06,Operating Systems,BlackBerry,55
+2014-06,Operating Systems,Chrome OS,39
+2014-06,Operating Systems,iOS,13611
+2014-06,Operating Systems,Linux,2447
+2014-06,Operating Systems,Macintosh,12391
+2014-06,Operating Systems,Nokia,9
+2014-06,Operating Systems,(not set),136
+2014-06,Operating Systems,OpenBSD,45
+2014-06,Operating Systems,OS/2,1
+2014-06,Operating Systems,Samsung,7
+2014-06,Operating Systems,Series40,40
+2014-06,Operating Systems,SymbianOS,21
+2014-06,Operating Systems,Windows,70614
+2014-06,Operating Systems,Windows Phone,268
+2014-06,Operating Systems,Xbox,1
+2014-07,Operating Systems,Android,7288
+2014-07,Operating Systems,BlackBerry,54
+2014-07,Operating Systems,Chrome OS,31
+2014-07,Operating Systems,FreeBSD,41
+2014-07,Operating Systems,Google TV,1
+2014-07,Operating Systems,iOS,15888
+2014-07,Operating Systems,Linux,3876
+2014-07,Operating Systems,Macintosh,20247
+2014-07,Operating Systems,Nokia,26
+2014-07,Operating Systems,(not set),90
+2014-07,Operating Systems,OpenBSD,86
+2014-07,Operating Systems,Samsung,14
+2014-07,Operating Systems,Series40,16
+2014-07,Operating Systems,SunOS,12
+2014-07,Operating Systems,SymbianOS,12
+2014-07,Operating Systems,Windows,103106
+2014-07,Operating Systems,Windows Phone,318
+2014-08,Operating Systems,Android,6033
+2014-08,Operating Systems,Bada,1
+2014-08,Operating Systems,BlackBerry,67
+2014-08,Operating Systems,Chrome OS,97
+2014-08,Operating Systems,iOS,13701
+2014-08,Operating Systems,Linux,1775
+2014-08,Operating Systems,Macintosh,15168
+2014-08,Operating Systems,Nokia,14
+2014-08,Operating Systems,(not set),78
+2014-08,Operating Systems,OpenBSD,146
+2014-08,Operating Systems,Samsung,12
+2014-08,Operating Systems,Series40,12
+2014-08,Operating Systems,Sony,1
+2014-08,Operating Systems,SymbianOS,5
+2014-08,Operating Systems,Windows,75731
+2014-08,Operating Systems,Windows Phone,341
+2014-09,Operating Systems,Android,5501
+2014-09,Operating Systems,Bada,1
+2014-09,Operating Systems,BlackBerry,69
+2014-09,Operating Systems,Chrome OS,39
+2014-09,Operating Systems,Firefox OS,1
+2014-09,Operating Systems,FreeBSD,1
+2014-09,Operating Systems,iOS,11594
+2014-09,Operating Systems,Linux,1835
+2014-09,Operating Systems,Macintosh,16174
+2014-09,Operating Systems,Nokia,7
+2014-09,Operating Systems,(not set),85
+2014-09,Operating Systems,OpenBSD,49
+2014-09,Operating Systems,Samsung,7
+2014-09,Operating Systems,Series40,18
+2014-09,Operating Systems,SunOS,6
+2014-09,Operating Systems,SymbianOS,11
+2014-09,Operating Systems,Windows,88193
+2014-09,Operating Systems,Windows Phone,311
+2014-10,Operating Systems,Android,5293
+2014-10,Operating Systems,Bada,4
+2014-10,Operating Systems,BlackBerry,50
+2014-10,Operating Systems,Chrome OS,66
+2014-10,Operating Systems,FreeBSD,5
+2014-10,Operating Systems,iOS,10146
+2014-10,Operating Systems,Linux,2569
+2014-10,Operating Systems,Macintosh,13077
+2014-10,Operating Systems,Nokia,13
+2014-10,Operating Systems,(not set),61
+2014-10,Operating Systems,OpenBSD,77
+2014-10,Operating Systems,Samsung,7
+2014-10,Operating Systems,Series40,11
+2014-10,Operating Systems,SymbianOS,7
+2014-10,Operating Systems,Windows,89011
+2014-10,Operating Systems,Windows Phone,232
+2014-10,Operating Systems,Xbox,1
+2014-11,Operating Systems,Android,4823
+2014-11,Operating Systems,BlackBerry,26
+2014-11,Operating Systems,Chrome OS,70
+2014-11,Operating Systems,FreeBSD,2
+2014-11,Operating Systems,iOS,8531
+2014-11,Operating Systems,LG,1
+2014-11,Operating Systems,Linux,2607
+2014-11,Operating Systems,Macintosh,13129
+2014-11,Operating Systems,Nokia,11
+2014-11,Operating Systems,(not set),70
+2014-11,Operating Systems,OpenBSD,70
+2014-11,Operating Systems,Samsung,2
+2014-11,Operating Systems,Series40,11
+2014-11,Operating Systems,SymbianOS,7
+2014-11,Operating Systems,Windows,75933
+2014-11,Operating Systems,Windows Phone,393
+2014-12,Operating Systems,Android,4606
+2014-12,Operating Systems,BlackBerry,39
+2014-12,Operating Systems,Chrome OS,79
+2014-12,Operating Systems,Firefox OS,1
+2014-12,Operating Systems,iOS,8050
+2014-12,Operating Systems,Linux,1861
+2014-12,Operating Systems,Macintosh,9780
+2014-12,Operating Systems,Nokia,5
+2014-12,Operating Systems,(not set),315
+2014-12,Operating Systems,OpenBSD,9
+2014-12,Operating Systems,Samsung,3
+2014-12,Operating Systems,Series40,23
+2014-12,Operating Systems,SymbianOS,4
+2014-12,Operating Systems,Windows,60939
+2014-12,Operating Systems,Windows Phone,437
+2015-01,Operating Systems,Android,5224
+2015-01,Operating Systems,BlackBerry,41
+2015-01,Operating Systems,Chrome OS,40
+2015-01,Operating Systems,iOS,10069
+2015-01,Operating Systems,Linux,1930
+2015-01,Operating Systems,Macintosh,10250
+2015-01,Operating Systems,Nokia,7
+2015-01,Operating Systems,(not set),394
+2015-01,Operating Systems,OpenBSD,46
+2015-01,Operating Systems,Samsung,10
+2015-01,Operating Systems,Series40,10
+2015-01,Operating Systems,SunOS,1
+2015-01,Operating Systems,SymbianOS,2
+2015-01,Operating Systems,Windows,71909
+2015-01,Operating Systems,Windows Phone,382
+2015-02,Operating Systems,Android,4833
+2015-02,Operating Systems,BlackBerry,27
+2015-02,Operating Systems,Chrome OS,116
+2015-02,Operating Systems,FreeBSD,21
+2015-02,Operating Systems,iOS,9378
+2015-02,Operating Systems,Linux,1682
+2015-02,Operating Systems,Macintosh,13024
+2015-02,Operating Systems,Nokia,2
+2015-02,Operating Systems,(not set),364
+2015-02,Operating Systems,OpenBSD,41
+2015-02,Operating Systems,Samsung,3
+2015-02,Operating Systems,Series40,16
+2015-02,Operating Systems,SymbianOS,4
+2015-02,Operating Systems,Windows,79988
+2015-02,Operating Systems,Windows Phone,420
+2015-03,Operating Systems,Android,5543
+2015-03,Operating Systems,BlackBerry,23
+2015-03,Operating Systems,Chrome OS,95
+2015-03,Operating Systems,Firefox OS,1
+2015-03,Operating Systems,FreeBSD,3
+2015-03,Operating Systems,iOS,10493
+2015-03,Operating Systems,Linux,29850
+2015-03,Operating Systems,Macintosh,16271
+2015-03,Operating Systems,Nintendo Wii,1
+2015-03,Operating Systems,Nokia,16
+2015-03,Operating Systems,(not set),387
+2015-03,Operating Systems,OpenBSD,4
+2015-03,Operating Systems,Playstation Vita,1
+2015-03,Operating Systems,Samsung,13
+2015-03,Operating Systems,Series40,36
+2015-03,Operating Systems,Vodafone,2
+2015-03,Operating Systems,Windows,88684
+2015-03,Operating Systems,Windows Phone,345
+2015-04,Operating Systems,Android,5062
+2015-04,Operating Systems,BlackBerry,28
+2015-04,Operating Systems,Chrome OS,71
+2015-04,Operating Systems,iOS,9014
+2015-04,Operating Systems,Linux,3531
+2015-04,Operating Systems,Macintosh,17623
+2015-04,Operating Systems,Nokia,4
+2015-04,Operating Systems,(not set),228
+2015-04,Operating Systems,Samsung,3
+2015-04,Operating Systems,Series40,52
+2015-04,Operating Systems,Windows,90326
+2015-04,Operating Systems,Windows Phone,304
+2015-05,Operating Systems,Android,4300
+2015-05,Operating Systems,BlackBerry,39
+2015-05,Operating Systems,Chrome OS,114
+2015-05,Operating Systems,iOS,7970
+2015-05,Operating Systems,Linux,2319
+2015-05,Operating Systems,Macintosh,19954
+2015-05,Operating Systems,Nokia,17
+2015-05,Operating Systems,(not set),116
+2015-05,Operating Systems,OS/2,1
+2015-05,Operating Systems,Playstation 3,1
+2015-05,Operating Systems,Samsung,11
+2015-05,Operating Systems,Series40,2
+2015-05,Operating Systems,Sony,1
+2015-05,Operating Systems,Windows,106476
+2015-05,Operating Systems,Windows Phone,235
+2015-06,Operating Systems,Android,3684
+2015-06,Operating Systems,BlackBerry,16
+2015-06,Operating Systems,Chrome OS,77
+2015-06,Operating Systems,Firefox OS,3
+2015-06,Operating Systems,iOS,7201
+2015-06,Operating Systems,Linux,2492
+2015-06,Operating Systems,Macintosh,14917
+2015-06,Operating Systems,Nokia,4
+2015-06,Operating Systems,(not set),107
+2015-06,Operating Systems,Playstation 3,1
+2015-06,Operating Systems,Samsung,6
+2015-06,Operating Systems,SymbianOS,1
+2015-06,Operating Systems,Windows,89314
+2015-06,Operating Systems,Windows Phone,221
+2015-07,Operating Systems,Android,5334
+2015-07,Operating Systems,BlackBerry,34
+2015-07,Operating Systems,Chrome OS,271
+2015-07,Operating Systems,Firefox OS,6
+2015-07,Operating Systems,iOS,9539
+2015-07,Operating Systems,Linux,3943
+2015-07,Operating Systems,Macintosh,22000
+2015-07,Operating Systems,Nokia,9
+2015-07,Operating Systems,(not set),646
+2015-07,Operating Systems,Samsung,5
+2015-07,Operating Systems,SunOS,3
+2015-07,Operating Systems,UNIX,1
+2015-07,Operating Systems,Windows,113976
+2015-07,Operating Systems,Windows Phone,284
+2015-08,Operating Systems,Android,4304
+2015-08,Operating Systems,BlackBerry,33
+2015-08,Operating Systems,Chrome OS,182
+2015-08,Operating Systems,iOS,7934
+2015-08,Operating Systems,Linux,2349
+2015-08,Operating Systems,Macintosh,18448
+2015-08,Operating Systems,Nokia,4
+2015-08,Operating Systems,(not set),217
+2015-08,Operating Systems,Samsung,5
+2015-08,Operating Systems,SymbianOS,1
+2015-08,Operating Systems,Windows,99936
+2015-08,Operating Systems,Windows Phone,255
+2015-09,Operating Systems,Android,3642
+2015-09,Operating Systems,BlackBerry,24
+2015-09,Operating Systems,Chrome OS,86
+2015-09,Operating Systems,iOS,7253
+2015-09,Operating Systems,Linux,2489
+2015-09,Operating Systems,Macintosh,16527
+2015-09,Operating Systems,Nokia,2
+2015-09,Operating Systems,(not set),210
+2015-09,Operating Systems,Samsung,26
+2015-09,Operating Systems,Windows,86083
+2015-09,Operating Systems,Windows Phone,255
+2015-10,Operating Systems,Android,4391
+2015-10,Operating Systems,BlackBerry,43
+2015-10,Operating Systems,Chrome OS,159
+2015-10,Operating Systems,FreeBSD,1
+2015-10,Operating Systems,iOS,8122
+2015-10,Operating Systems,Linux,1858
+2015-10,Operating Systems,Macintosh,16280
+2015-10,Operating Systems,Nokia,8
+2015-10,Operating Systems,(not set),340
+2015-10,Operating Systems,Samsung,4
+2015-10,Operating Systems,SymbianOS,8
+2015-10,Operating Systems,Windows,98458
+2015-10,Operating Systems,Windows Phone,224
+2015-11,Operating Systems,Android,4875
+2015-11,Operating Systems,BlackBerry,29
+2015-11,Operating Systems,Chrome OS,134
+2015-11,Operating Systems,FreeBSD,4
+2015-11,Operating Systems,Google TV,1
+2015-11,Operating Systems,iOS,8851
+2015-11,Operating Systems,Linux,1787
+2015-11,Operating Systems,Macintosh,15699
+2015-11,Operating Systems,(not set),153
+2015-11,Operating Systems,Samsung,2
+2015-11,Operating Systems,Windows,93434
+2015-11,Operating Systems,Windows Phone,275
+2015-12,Operating Systems,Android,9253
+2015-12,Operating Systems,BlackBerry,39
+2015-12,Operating Systems,Chrome OS,132
+2015-12,Operating Systems,Firefox OS,2
+2015-12,Operating Systems,FreeBSD,2
+2015-12,Operating Systems,iOS,16283
+2015-12,Operating Systems,Linux,3050
+2015-12,Operating Systems,Macintosh,21827
+2015-12,Operating Systems,Nokia,3
+2015-12,Operating Systems,(not set),103
+2015-12,Operating Systems,Samsung,2
+2015-12,Operating Systems,SymbianOS,2
+2015-12,Operating Systems,UNIX,1
+2015-12,Operating Systems,Windows,128446
+2015-12,Operating Systems,Windows Phone,417
+2015-12,Operating Systems,Xbox,11
+2016-01,Operating Systems,Android,5553
+2016-01,Operating Systems,BlackBerry,44
+2016-01,Operating Systems,Chrome OS,63
+2016-01,Operating Systems,iOS,9189
+2016-01,Operating Systems,Linux,1718
+2016-01,Operating Systems,Macintosh,12934
+2016-01,Operating Systems,Nintendo Wii,1
+2016-01,Operating Systems,Nokia,1
+2016-01,Operating Systems,(not set),126
+2016-01,Operating Systems,Samsung,2
+2016-01,Operating Systems,Windows,86117
+2016-01,Operating Systems,Windows Phone,296
+2016-02,Operating Systems,Android,7419
+2016-02,Operating Systems,BlackBerry,33
+2016-02,Operating Systems,Chrome OS,128
+2016-02,Operating Systems,FreeBSD,3
+2016-02,Operating Systems,iOS,11568
+2016-02,Operating Systems,Linux,3240
+2016-02,Operating Systems,Macintosh,20735
+2016-02,Operating Systems,(not set),118
+2016-02,Operating Systems,Samsung,2
+2016-02,Operating Systems,Windows,141389
+2016-02,Operating Systems,Windows Phone,395
+2016-03,Operating Systems,Android,9836
+2016-03,Operating Systems,BlackBerry,47
+2016-03,Operating Systems,Chrome OS,264
+2016-03,Operating Systems,iOS,18114
+2016-03,Operating Systems,Linux,3252
+2016-03,Operating Systems,Macintosh,33133
+2016-03,Operating Systems,Nokia,1
+2016-03,Operating Systems,(not set),111
+2016-03,Operating Systems,Playstation Vita,2
+2016-03,Operating Systems,Samsung,2
+2016-03,Operating Systems,SunOS,5
+2016-03,Operating Systems,Windows,168576
+2016-03,Operating Systems,Windows Phone,340
+2016-03,Operating Systems,Xbox,1
+2016-04,Operating Systems,Android,7214
+2016-04,Operating Systems,BlackBerry,37
+2016-04,Operating Systems,Chrome OS,102
+2016-04,Operating Systems,iOS,11809
+2016-04,Operating Systems,Linux,2453
+2016-04,Operating Systems,Macintosh,27965
+2016-04,Operating Systems,Nokia,2
+2016-04,Operating Systems,(not set),128
+2016-04,Operating Systems,Samsung,10
+2016-04,Operating Systems,SymbianOS,4
+2016-04,Operating Systems,Windows,140787
+2016-04,Operating Systems,Windows Phone,221
+2016-05,Operating Systems,Android,6517
+2016-05,Operating Systems,BlackBerry,6
+2016-05,Operating Systems,Chrome OS,404
+2016-05,Operating Systems,iOS,12038
+2016-05,Operating Systems,Linux,2440
+2016-05,Operating Systems,Macintosh,24744
+2016-05,Operating Systems,Nokia,8
+2016-05,Operating Systems,(not set),43
+2016-05,Operating Systems,Samsung,3
+2016-05,Operating Systems,Windows,144386
+2016-05,Operating Systems,Windows Phone,295
+2016-06,Operating Systems,Android,6995
+2016-06,Operating Systems,BlackBerry,39
+2016-06,Operating Systems,Chrome OS,98
+2016-06,Operating Systems,Firefox OS,1
+2016-06,Operating Systems,FreeBSD,1
+2016-06,Operating Systems,iOS,10411
+2016-06,Operating Systems,Linux,2282
+2016-06,Operating Systems,Macintosh,20604
+2016-06,Operating Systems,Nokia,3
+2016-06,Operating Systems,(not set),93
+2016-06,Operating Systems,Samsung,3
+2016-06,Operating Systems,SymbianOS,2
+2016-06,Operating Systems,Windows,132718
+2016-06,Operating Systems,Windows Phone,206
+2016-07,Operating Systems,Android,8249
+2016-07,Operating Systems,BlackBerry,21
+2016-07,Operating Systems,Chrome OS,258
+2016-07,Operating Systems,iOS,11711
+2016-07,Operating Systems,Linux,2597
+2016-07,Operating Systems,Macintosh,23213
+2016-07,Operating Systems,Nokia,2
+2016-07,Operating Systems,(not set),76
+2016-07,Operating Systems,Samsung,1
+2016-07,Operating Systems,Windows,138989
+2016-07,Operating Systems,Windows Phone,280
+2016-08,Operating Systems,Android,8068
+2016-08,Operating Systems,BlackBerry,15
+2016-08,Operating Systems,Chrome OS,221
+2016-08,Operating Systems,FreeBSD,3
+2016-08,Operating Systems,iOS,13847
+2016-08,Operating Systems,Linux,3337
+2016-08,Operating Systems,Macintosh,43506
+2016-08,Operating Systems,(not set),82
+2016-08,Operating Systems,Playstation 3,3
+2016-08,Operating Systems,Samsung,3
+2016-08,Operating Systems,Windows,187279
+2016-08,Operating Systems,Windows Phone,330
+2016-08,Operating Systems,Xbox,1
+2016-09,Operating Systems,Android,7748
+2016-09,Operating Systems,Bada,1
+2016-09,Operating Systems,BlackBerry,14
+2016-09,Operating Systems,Chrome OS,126
+2016-09,Operating Systems,Firefox OS,2
+2016-09,Operating Systems,iOS,12250
+2016-09,Operating Systems,Linux,2787
+2016-09,Operating Systems,Macintosh,28108
+2016-09,Operating Systems,(not set),126
+2016-09,Operating Systems,Windows,155736
+2016-09,Operating Systems,Windows Phone,136
+2016-10,Operating Systems,Android,9665
+2016-10,Operating Systems,BlackBerry,56
+2016-10,Operating Systems,Chrome OS,554
+2016-10,Operating Systems,iOS,14228
+2016-10,Operating Systems,Linux,3106
+2016-10,Operating Systems,Macintosh,25780
+2016-10,Operating Systems,(not set),123
+2016-10,Operating Systems,Samsung,5
+2016-10,Operating Systems,Windows,167797
+2016-10,Operating Systems,Windows Phone,187
+2016-11,Operating Systems,Android,10079
+2016-11,Operating Systems,Bada,3
+2016-11,Operating Systems,BlackBerry,32
+2016-11,Operating Systems,Chrome OS,212
+2016-11,Operating Systems,FreeBSD,9
+2016-11,Operating Systems,iOS,15364
+2016-11,Operating Systems,Linux,3088
+2016-11,Operating Systems,Macintosh,21636
+2016-11,Operating Systems,Nokia,4
+2016-11,Operating Systems,(not set),310
+2016-11,Operating Systems,Samsung,3
+2016-11,Operating Systems,Windows,168749
+2016-11,Operating Systems,Windows Phone,241
+2016-12,Operating Systems,Android,19522
+2016-12,Operating Systems,BlackBerry,47
+2016-12,Operating Systems,Chrome OS,192
+2016-12,Operating Systems,Firefox OS,1
+2016-12,Operating Systems,FreeBSD,2
+2016-12,Operating Systems,iOS,44503
+2016-12,Operating Systems,Linux,2651
+2016-12,Operating Systems,Macintosh,29129
+2016-12,Operating Systems,Nokia,3
+2016-12,Operating Systems,(not set),157
+2016-12,Operating Systems,Samsung,5
+2016-12,Operating Systems,Windows,166736
+2016-12,Operating Systems,Windows Phone,571
+2016-12,Operating Systems,Xbox,1
+2017-01,Operating Systems,Android,11100
+2017-01,Operating Systems,BlackBerry,17
+2017-01,Operating Systems,Chrome OS,160
+2017-01,Operating Systems,FreeBSD,6
+2017-01,Operating Systems,iOS,16309
+2017-01,Operating Systems,Linux,2431
+2017-01,Operating Systems,Macintosh,20838
+2017-01,Operating Systems,Nokia,6
+2017-01,Operating Systems,(not set),134
+2017-01,Operating Systems,Playstation 3,2
+2017-01,Operating Systems,Samsung,20
+2017-01,Operating Systems,SunOS,2
+2017-01,Operating Systems,Windows,146448
+2017-01,Operating Systems,Windows Phone,179
+2017-01,Operating Systems,Xbox,1
+2017-02,Operating Systems,Android,11556
+2017-02,Operating Systems,BlackBerry,11
+2017-02,Operating Systems,Chrome OS,446
+2017-02,Operating Systems,Firefox OS,1
+2017-02,Operating Systems,iOS,16798
+2017-02,Operating Systems,Linux,2813
+2017-02,Operating Systems,Macintosh,24208
+2017-02,Operating Systems,Nokia,7
+2017-02,Operating Systems,(not set),192
+2017-02,Operating Systems,Samsung,6
+2017-02,Operating Systems,Windows,161700
+2017-02,Operating Systems,Windows Phone,189
+2017-02,Operating Systems,Xbox,1
+2017-03,Operating Systems,Android,12035
+2017-03,Operating Systems,BlackBerry,29
+2017-03,Operating Systems,Chrome OS,334
+2017-03,Operating Systems,FreeBSD,9
+2017-03,Operating Systems,iOS,18030
+2017-03,Operating Systems,Linux,3348
+2017-03,Operating Systems,Macintosh,39390
+2017-03,Operating Systems,Nokia,2
+2017-03,Operating Systems,(not set),151
+2017-03,Operating Systems,Samsung,1
+2017-03,Operating Systems,Windows,193783
+2017-03,Operating Systems,Windows Phone,147
+2017-03,Operating Systems,Xbox,1
+2017-04,Operating Systems,Android,14698
+2017-04,Operating Systems,BlackBerry,23
+2017-04,Operating Systems,Chrome OS,371
+2017-04,Operating Systems,FreeBSD,6
+2017-04,Operating Systems,iOS,23538
+2017-04,Operating Systems,Linux,4057
+2017-04,Operating Systems,Macintosh,41739
+2017-04,Operating Systems,Nintendo 3DS,1
+2017-04,Operating Systems,Nintendo WiiU,1
+2017-04,Operating Systems,(not set),336
+2017-04,Operating Systems,Playstation 3,2
+2017-04,Operating Systems,Windows,191804
+2017-04,Operating Systems,Windows Phone,118
+2017-05,Operating Systems,Android,13057
+2017-05,Operating Systems,BlackBerry,20
+2017-05,Operating Systems,Chrome OS,498
+2017-05,Operating Systems,FreeBSD,5
+2017-05,Operating Systems,iOS,20619
+2017-05,Operating Systems,Linux,3860
+2017-05,Operating Systems,Macintosh,40395
+2017-05,Operating Systems,(not set),260
+2017-05,Operating Systems,Samsung,5
+2017-05,Operating Systems,Windows,209888
+2017-05,Operating Systems,Windows Phone,181
+2017-05,Operating Systems,Xbox,1
+2017-06,Operating Systems,Android,11912
+2017-06,Operating Systems,BlackBerry,6
+2017-06,Operating Systems,Chrome OS,313
+2017-06,Operating Systems,FreeBSD,2
+2017-06,Operating Systems,iOS,17820
+2017-06,Operating Systems,Linux,2602
+2017-06,Operating Systems,Macintosh,26391
+2017-06,Operating Systems,Nokia,4
+2017-06,Operating Systems,(not set),95
+2017-06,Operating Systems,Samsung,1
+2017-06,Operating Systems,Windows,170416
+2017-06,Operating Systems,Windows Phone,162
+2017-07,Operating Systems,Android,2568
+2017-07,Operating Systems,BlackBerry,4
+2017-07,Operating Systems,Chrome OS,63
+2017-07,Operating Systems,FreeBSD,1
+2017-07,Operating Systems,iOS,3386
+2017-07,Operating Systems,Linux,548
+2017-07,Operating Systems,Macintosh,3634
+2017-07,Operating Systems,(not set),17
+2017-07,Operating Systems,Windows,27059
+2017-07,Operating Systems,Windows Phone,54
+2017-08,Operating Systems,Android,14023
+2017-08,Operating Systems,BlackBerry,36
+2017-08,Operating Systems,Chrome OS,396
+2017-08,Operating Systems,iOS,20895
+2017-08,Operating Systems,Linux,4763
+2017-08,Operating Systems,Macintosh,74123
+2017-08,Operating Systems,(not set),280
+2017-08,Operating Systems,Playstation 3,4
+2017-08,Operating Systems,Samsung,1
+2017-08,Operating Systems,Windows,240454
+2017-08,Operating Systems,Windows Phone,207
+2017-08,Operating Systems,Xbox,11
+2017-09,Operating Systems,Android,12426
+2017-09,Operating Systems,BlackBerry,13
+2017-09,Operating Systems,Chrome OS,397
+2017-09,Operating Systems,FreeBSD,9
+2017-09,Operating Systems,iOS,20280
+2017-09,Operating Systems,Linux,3514
+2017-09,Operating Systems,Macintosh,42040
+2017-09,Operating Systems,Nintendo WiiU,1
+2017-09,Operating Systems,Nokia,13
+2017-09,Operating Systems,(not set),155
+2017-09,Operating Systems,Samsung,13
+2017-09,Operating Systems,Tizen,3
+2017-09,Operating Systems,Windows,202523
+2017-09,Operating Systems,Windows Phone,112
+2017-09,Operating Systems,Xbox,1
+2017-10,Operating Systems,Android,13926
+2017-10,Operating Systems,BlackBerry,5
+2017-10,Operating Systems,Chrome OS,263
+2017-10,Operating Systems,iOS,19076
+2017-10,Operating Systems,Linux,2679
+2017-10,Operating Systems,Macintosh,36874
+2017-10,Operating Systems,Nokia,2
+2017-10,Operating Systems,(not set),168
+2017-10,Operating Systems,Tizen,1
+2017-10,Operating Systems,Windows,197491
+2017-10,Operating Systems,Windows Phone,114
+2017-11,Operating Systems,Android,11605
+2017-11,Operating Systems,BlackBerry,6
+2017-11,Operating Systems,Chrome OS,242
+2017-11,Operating Systems,iOS,16629
+2017-11,Operating Systems,Linux,3219
+2017-11,Operating Systems,Macintosh,26751
+2017-11,Operating Systems,(not set),96
+2017-11,Operating Systems,OS/2,5
+2017-11,Operating Systems,Samsung,3
+2017-11,Operating Systems,Tizen,3
+2017-11,Operating Systems,Windows,183530
+2017-11,Operating Systems,Windows Phone,76
+2017-11,Operating Systems,Xbox,6
+2017-12,Operating Systems,Android,13732
+2017-12,Operating Systems,BlackBerry,5
+2017-12,Operating Systems,Chrome OS,149
+2017-12,Operating Systems,Firefox OS,1
+2017-12,Operating Systems,iOS,25129
+2017-12,Operating Systems,Linux,3564
+2017-12,Operating Systems,Macintosh,20439
+2017-12,Operating Systems,(not set),100
+2017-12,Operating Systems,OS/2,2
+2017-12,Operating Systems,Tizen,6
+2017-12,Operating Systems,Windows,142500
+2017-12,Operating Systems,Windows Phone,64
+2017-12,Operating Systems,Xbox,4
+2018-01,Operating Systems,Android,13301
+2018-01,Operating Systems,BlackBerry,12
+2018-01,Operating Systems,Chrome OS,320
+2018-01,Operating Systems,FreeBSD,60
+2018-01,Operating Systems,iOS,19785
+2018-01,Operating Systems,Linux,4438
+2018-01,Operating Systems,Macintosh,26595
+2018-01,Operating Systems,(not set),126
+2018-01,Operating Systems,Samsung,7
+2018-01,Operating Systems,SunOS,1
+2018-01,Operating Systems,Tizen,3
+2018-01,Operating Systems,Windows,164652
+2018-01,Operating Systems,Windows Phone,84
+2018-01,Operating Systems,Xbox,13
+2018-02,Operating Systems,Android,12179
+2018-02,Operating Systems,BlackBerry,97
+2018-02,Operating Systems,Chrome OS,329
+2018-02,Operating Systems,FreeBSD,1
+2018-02,Operating Systems,iOS,18521
+2018-02,Operating Systems,Linux,4265
+2018-02,Operating Systems,Macintosh,26099
+2018-02,Operating Systems,Nokia,4
+2018-02,Operating Systems,(not set),80
+2018-02,Operating Systems,OS/2,2
+2018-02,Operating Systems,Samsung,1
+2018-02,Operating Systems,Tizen,3
+2018-02,Operating Systems,Windows,164345
+2018-02,Operating Systems,Windows Phone,74
+2018-03,Operating Systems,Android,15935
+2018-03,Operating Systems,BlackBerry,10
+2018-03,Operating Systems,Chrome OS,558
+2018-03,Operating Systems,Firefox OS,1
+2018-03,Operating Systems,iOS,24396
+2018-03,Operating Systems,Linux,6232
+2018-03,Operating Systems,Macintosh,66240
+2018-03,Operating Systems,(not set),111
+2018-03,Operating Systems,OS/2,2
+2018-03,Operating Systems,Samsung,4
+2018-03,Operating Systems,SymbianOS,2
+2018-03,Operating Systems,Tizen,4
+2018-03,Operating Systems,Windows,236789
+2018-03,Operating Systems,Windows Phone,109
+2018-03,Operating Systems,Xbox,1
+2018-04,Operating Systems,Android,16710
+2018-04,Operating Systems,BlackBerry,15
+2018-04,Operating Systems,Chrome OS,490
+2018-04,Operating Systems,FreeBSD,4
+2018-04,Operating Systems,iOS,24007
+2018-04,Operating Systems,Linux,5327
+2018-04,Operating Systems,Macintosh,63634
+2018-04,Operating Systems,Nokia,4
+2018-04,Operating Systems,(not set),106
+2018-04,Operating Systems,OS/2,6
+2018-04,Operating Systems,Playstation 3,2
+2018-04,Operating Systems,Samsung,27
+2018-04,Operating Systems,Tizen,14
+2018-04,Operating Systems,UNIX,1
+2018-04,Operating Systems,Windows,207997
+2018-04,Operating Systems,Windows Phone,88
+2018-04,Operating Systems,Xbox,2
+2018-05,Operating Systems,Android,17273
+2018-05,Operating Systems,BlackBerry,17
+2018-05,Operating Systems,Chrome OS,525
+2018-05,Operating Systems,iOS,25261
+2018-05,Operating Systems,Linux,5421
+2018-05,Operating Systems,Macintosh,71450
+2018-05,Operating Systems,(not set),1875
+2018-05,Operating Systems,OpenBSD,1
+2018-05,Operating Systems,OS/2,4
+2018-05,Operating Systems,Playstation 3,6
+2018-05,Operating Systems,Samsung,3
+2018-05,Operating Systems,Tizen,4
+2018-05,Operating Systems,Windows,279040
+2018-05,Operating Systems,Windows Phone,75
+2018-05,Operating Systems,Xbox,1
+2018-06,Operating Systems,Android,15421
+2018-06,Operating Systems,BlackBerry,4
+2018-06,Operating Systems,Chrome OS,410
+2018-06,Operating Systems,iOS,22203
+2018-06,Operating Systems,Linux,4442
+2018-06,Operating Systems,Macintosh,48039
+2018-06,Operating Systems,Nokia,1
+2018-06,Operating Systems,(not set),10307
+2018-06,Operating Systems,OS/2,13
+2018-06,Operating Systems,Samsung,43
+2018-06,Operating Systems,Tizen,2
+2018-06,Operating Systems,Windows,204468
+2018-06,Operating Systems,Windows Phone,50
+2018-06,Operating Systems,Xbox,4
+2018-07,Operating Systems,Android,18342
+2018-07,Operating Systems,BlackBerry,16
+2018-07,Operating Systems,Chrome OS,209
+2018-07,Operating Systems,FreeBSD,1
+2018-07,Operating Systems,iOS,24033
+2018-07,Operating Systems,Linux,5892
+2018-07,Operating Systems,Macintosh,53329
+2018-07,Operating Systems,Nintendo 3DS,1
+2018-07,Operating Systems,(not set),2375
+2018-07,Operating Systems,OS/2,5
+2018-07,Operating Systems,Samsung,17
+2018-07,Operating Systems,Tizen,5
+2018-07,Operating Systems,Windows,231337
+2018-07,Operating Systems,Windows Phone,86
+2018-07,Operating Systems,Xbox,6
+2018-08,Operating Systems,Android,21456
+2018-08,Operating Systems,BlackBerry,7
+2018-08,Operating Systems,Chrome OS,576
+2018-08,Operating Systems,FreeBSD,2
+2018-08,Operating Systems,iOS,28236
+2018-08,Operating Systems,Linux,6521
+2018-08,Operating Systems,Macintosh,95887
+2018-08,Operating Systems,(not set),2211
+2018-08,Operating Systems,Samsung,7
+2018-08,Operating Systems,Tizen,3
+2018-08,Operating Systems,Windows,318260
+2018-08,Operating Systems,Windows Phone,84
+2018-08,Operating Systems,Xbox,5
+2018-09,Operating Systems,Android,24875
+2018-09,Operating Systems,BlackBerry,17
+2018-09,Operating Systems,Chrome OS,820
+2018-09,Operating Systems,iOS,30590
+2018-09,Operating Systems,Linux,8009
+2018-09,Operating Systems,Macintosh,105131
+2018-09,Operating Systems,(not set),2272
+2018-09,Operating Systems,Playstation 3,1
+2018-09,Operating Systems,Samsung,5
+2018-09,Operating Systems,Tizen,10
+2018-09,Operating Systems,Windows,329454
+2018-09,Operating Systems,Windows Phone,50
+2018-09,Operating Systems,Xbox,5
+2018-10,Operating Systems,Android,25468
+2018-10,Operating Systems,BlackBerry,9
+2018-10,Operating Systems,Chrome OS,620
+2018-10,Operating Systems,iOS,32848
+2018-10,Operating Systems,Linux,7327
+2018-10,Operating Systems,Macintosh,72328
+2018-10,Operating Systems,(not set),2271
+2018-10,Operating Systems,OS/2,3
+2018-10,Operating Systems,Playstation 3,2
+2018-10,Operating Systems,Samsung,3
+2018-10,Operating Systems,Tizen,5
+2018-10,Operating Systems,Windows,329574
+2018-10,Operating Systems,Windows Phone,67
+2018-10,Operating Systems,Xbox,1
+2018-11,Operating Systems,Android,23205
+2018-11,Operating Systems,BlackBerry,11
+2018-11,Operating Systems,Chrome OS,817
+2018-11,Operating Systems,iOS,29720
+2018-11,Operating Systems,Linux,6874
+2018-11,Operating Systems,Macintosh,37795
+2018-11,Operating Systems,(not set),2289
+2018-11,Operating Systems,OS/2,3
+2018-11,Operating Systems,Playstation 3,5
+2018-11,Operating Systems,Tizen,13
+2018-11,Operating Systems,Windows,230848
+2018-11,Operating Systems,Windows Phone,73
+2018-11,Operating Systems,Xbox,1
+2018-12,Operating Systems,Android,22582
+2018-12,Operating Systems,BlackBerry,15
+2018-12,Operating Systems,Chrome OS,542
+2018-12,Operating Systems,FreeBSD,3
+2018-12,Operating Systems,iOS,27523
+2018-12,Operating Systems,Linux,6557
+2018-12,Operating Systems,Macintosh,26996
+2018-12,Operating Systems,(not set),3294
+2018-12,Operating Systems,Playstation 3,6
+2018-12,Operating Systems,Samsung,13
+2018-12,Operating Systems,Tizen,26
+2018-12,Operating Systems,Windows,165967
+2018-12,Operating Systems,Windows Phone,43
+2018-12,Operating Systems,Xbox,1
+2019-01,Operating Systems,Android,26591
+2019-01,Operating Systems,BlackBerry,4
+2019-01,Operating Systems,Chrome OS,585
+2019-01,Operating Systems,FreeBSD,2
+2019-01,Operating Systems,iOS,30652
+2019-01,Operating Systems,Linux,9550
+2019-01,Operating Systems,Macintosh,48353
+2019-01,Operating Systems,Nintendo 3DS,1
+2019-01,Operating Systems,(not set),4970
+2019-01,Operating Systems,Samsung,3
+2019-01,Operating Systems,Tizen,12
+2019-01,Operating Systems,Windows,254828
+2019-01,Operating Systems,Windows Phone,60
+2019-02,Operating Systems,Android,18778
+2019-02,Operating Systems,BlackBerry,1
+2019-02,Operating Systems,Chrome OS,929
+2019-02,Operating Systems,iOS,24568
+2019-02,Operating Systems,Linux,8232
+2019-02,Operating Systems,Macintosh,43735
+2019-02,Operating Systems,Nintendo 3DS,2
+2019-02,Operating Systems,(not set),7888
+2019-02,Operating Systems,OS/2,1
+2019-02,Operating Systems,Samsung,6
+2019-02,Operating Systems,Tizen,30
+2019-02,Operating Systems,Windows,246620
+2019-02,Operating Systems,Windows Phone,18
+2019-03,Operating Systems,Android,28082
+2019-03,Operating Systems,BlackBerry,7
+2019-03,Operating Systems,Chrome OS,770
+2019-03,Operating Systems,FreeBSD,5
+2019-03,Operating Systems,iOS,40125
+2019-03,Operating Systems,Linux,12147
+2019-03,Operating Systems,Macintosh,163516
+2019-03,Operating Systems,Nokia,1
+2019-03,Operating Systems,(not set),54542
+2019-03,Operating Systems,Playstation 4,1
+2019-03,Operating Systems,Tizen,1
+2019-03,Operating Systems,Windows,419056
+2019-03,Operating Systems,Windows Phone,65
+2019-04,Operating Systems,Android,29077
+2019-04,Operating Systems,BlackBerry,6
+2019-04,Operating Systems,Chrome OS,836
+2019-04,Operating Systems,iOS,36350
+2019-04,Operating Systems,Linux,10812
+2019-04,Operating Systems,Macintosh,181163
+2019-04,Operating Systems,(not set),57286
+2019-04,Operating Systems,Playstation 3,1
+2019-04,Operating Systems,Samsung,10
+2019-04,Operating Systems,Tizen,24
+2019-04,Operating Systems,Windows,426264
+2019-04,Operating Systems,Windows Phone,6
+2019-05,Operating Systems,Android,27109
+2019-05,Operating Systems,BlackBerry,17
+2019-05,Operating Systems,Chrome OS,755
+2019-05,Operating Systems,FreeBSD,4
+2019-05,Operating Systems,iOS,37489
+2019-05,Operating Systems,Linux,11719
+2019-05,Operating Systems,Macintosh,99047
+2019-05,Operating Systems,Nokia,1
+2019-05,Operating Systems,(not set),12907
+2019-05,Operating Systems,Windows,403629
+2019-05,Operating Systems,Windows Phone,70
+2019-06,Operating Systems,Android,21851
+2019-06,Operating Systems,BlackBerry,1
+2019-06,Operating Systems,Chrome OS,646
+2019-06,Operating Systems,iOS,32404
+2019-06,Operating Systems,Linux,9525
+2019-06,Operating Systems,Macintosh,50070
+2019-06,Operating Systems,(not set),644
+2019-06,Operating Systems,OS/2,2
+2019-06,Operating Systems,Playstation 4,19
+2019-06,Operating Systems,Samsung,5
+2019-06,Operating Systems,Tizen,13
+2019-06,Operating Systems,Windows,292085
+2019-06,Operating Systems,Windows Phone,48
+2019-07,Operating Systems,Android,24898
+2019-07,Operating Systems,BlackBerry,4
+2019-07,Operating Systems,Chrome OS,466
+2019-07,Operating Systems,iOS,32424
+2019-07,Operating Systems,Linux,11881
+2019-07,Operating Systems,Macintosh,61161
+2019-07,Operating Systems,(not set),545
+2019-07,Operating Systems,Playstation 4,3
+2019-07,Operating Systems,Windows,323125
+2019-07,Operating Systems,Windows Phone,15
+2019-07,Operating Systems,Xbox,3
+2019-08,Operating Systems,Android,25809
+2019-08,Operating Systems,BlackBerry,4
+2019-08,Operating Systems,Chrome OS,949
+2019-08,Operating Systems,iOS,38922
+2019-08,Operating Systems,Linux,11872
+2019-08,Operating Systems,Macintosh,147890
+2019-08,Operating Systems,(not set),582
+2019-08,Operating Systems,Playstation 4,8
+2019-08,Operating Systems,Windows,420582
+2019-08,Operating Systems,Windows Phone,6
+2019-08,Operating Systems,Xbox,24
+2019-09,Operating Systems,Android,24708
+2019-09,Operating Systems,Chrome OS,837
+2019-09,Operating Systems,iOS,29929
+2019-09,Operating Systems,Linux,26485
+2019-09,Operating Systems,Macintosh,104123
+2019-09,Operating Systems,(not set),492
+2019-09,Operating Systems,Tizen,30
+2019-09,Operating Systems,Windows,372359
+2019-10,Operating Systems,Android,21188
+2019-10,Operating Systems,Chrome OS,728
+2019-10,Operating Systems,iOS,26151
+2019-10,Operating Systems,Linux,10557
+2019-10,Operating Systems,Macintosh,76629
+2019-10,Operating Systems,(not set),662
+2019-10,Operating Systems,OpenBSD,3
+2019-10,Operating Systems,Tizen,7
+2019-10,Operating Systems,Windows,328135
+2019-10,Operating Systems,Windows Phone,4
+2019-11,Operating Systems,Android,22124
+2019-11,Operating Systems,BlackBerry,7
+2019-11,Operating Systems,Chrome OS,1304
+2019-11,Operating Systems,iOS,26139
+2019-11,Operating Systems,Linux,53462
+2019-11,Operating Systems,Macintosh,51317
+2019-11,Operating Systems,(not set),772
+2019-11,Operating Systems,OpenBSD,35
+2019-11,Operating Systems,Samsung,1
+2019-11,Operating Systems,Windows,285325
+2019-11,Operating Systems,Windows Phone,17
+2019-11,Operating Systems,Xbox,6
+2019-12,Operating Systems,Android,22751
+2019-12,Operating Systems,BlackBerry,16
+2019-12,Operating Systems,Chrome OS,968
+2019-12,Operating Systems,FreeBSD,9
+2019-12,Operating Systems,iOS,24378
+2019-12,Operating Systems,Linux,14501
+2019-12,Operating Systems,Macintosh,38199
+2019-12,Operating Systems,(not set),788
+2019-12,Operating Systems,Windows,225014
+2019-12,Operating Systems,Windows Phone,6
+2020-01,Operating Systems,Android,22316
+2020-01,Operating Systems,Chrome OS,590
+2020-01,Operating Systems,iOS,22335
+2020-01,Operating Systems,Linux,11420
+2020-01,Operating Systems,Macintosh,39139
+2020-01,Operating Systems,(not set),670
+2020-01,Operating Systems,OpenBSD,2
+2020-01,Operating Systems,Tizen,3
+2020-01,Operating Systems,Windows,226601
+2020-01,Operating Systems,Windows Phone,2
+2020-01,Operating Systems,Xbox,1
+2020-02,Operating Systems,Android,19761
+2020-02,Operating Systems,BlackBerry,2
+2020-02,Operating Systems,Chrome OS,634
+2020-02,Operating Systems,iOS,18585
+2020-02,Operating Systems,Linux,7540
+2020-02,Operating Systems,Macintosh,44361
+2020-02,Operating Systems,(not set),1185
+2020-02,Operating Systems,Playstation 4,2
+2020-02,Operating Systems,Samsung,2
+2020-02,Operating Systems,Tizen,2
+2020-02,Operating Systems,Windows,250507
+2020-02,Operating Systems,Windows Phone,16
+2020-03,Operating Systems,Android,18221
+2020-03,Operating Systems,BlackBerry,3
+2020-03,Operating Systems,Chrome OS,829
+2020-03,Operating Systems,FreeBSD,2
+2020-03,Operating Systems,iOS,20805
+2020-03,Operating Systems,Linux,7569
+2020-03,Operating Systems,Macintosh,83943
+2020-03,Operating Systems,(not set),493
+2020-03,Operating Systems,Playstation 4,3
+2020-03,Operating Systems,Tizen,13
+2020-03,Operating Systems,Windows,283295
+2020-03,Operating Systems,Windows Phone,7
+2020-04,Operating Systems,Android,23763
+2020-04,Operating Systems,Chrome OS,630
+2020-04,Operating Systems,iOS,27602
+2020-04,Operating Systems,Linux,7575
+2020-04,Operating Systems,Macintosh,102185
+2020-04,Operating Systems,(not set),369
+2020-04,Operating Systems,Playstation 3,12
+2020-04,Operating Systems,Windows,299085
+2020-04,Operating Systems,Windows Phone,2
+2020-04,Operating Systems,Xbox,2
