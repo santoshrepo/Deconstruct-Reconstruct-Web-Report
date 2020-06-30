@@ -1,6 +1,6 @@
-## Deconstruct-Reconstruct-Web-Report
+# Deconstruct-Reconstruct-Web-Report
 
-Instructions followed:
+### Instructions followed:
 
 - Part I – Choose your data visualisation
 Find a problematic data visualisation on the web such that:
